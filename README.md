@@ -31,11 +31,11 @@ Phrase, it is type of “string” and it stems from the Sentence that is refere
 
 **The workflow will show the complete building of model:**
 
-> Importing libraries
-> Exploratory Data Analysis
-> Cleaning text data using NLP techniques
-> Using wordcloud to indicate size of each word and its importance.
-> Evaluate algorithms.
+Importing libraries
+Exploratory Data Analysis
+Cleaning text data using NLP techniques
+Using wordcloud to indicate size of each word and its importance.
+Evaluate algorithms.
 
 **Algorithms and Techniques:**
 
